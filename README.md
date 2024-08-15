@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
-
-![Snake animation](https://github.com/StefanPenev/StefanPenev/blob/output/github-contribution-grid-snake.svg)
