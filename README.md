@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanPenev&layout=compact)
-
 ![StefanPenev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StefanPenev&theme=dracula)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=StefanPenev.StefanPenev)
@@ -29,4 +27,9 @@ Here are some ideas to get you started:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
-![Stefan Penev's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanPenev&show_icons=true&theme=radical)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=StefanPenev&show_icons=true&theme=radical" alt="Your GitHub stats" style="height: 195px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanPenev&layout=compact&theme=radical" alt="Top Langs" style="height: 195px;"/>
+</div>
+
+
