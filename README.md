@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StefanPenev.StefanPenev"/>
+
 ## Hi there 👋
 
 <!--
@@ -22,10 +24,16 @@ Here are some ideas to get you started:
 
 ![StefanPenev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StefanPenev&theme=dracula)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=StefanPenev.StefanPenev)
-
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/StefanPenev/StefanPenev/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ## Stats
 <div style="display: flex; align-items: center;">
