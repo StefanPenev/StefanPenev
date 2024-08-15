@@ -10,13 +10,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout the repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Generate the Snake animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3.0.1
         with:
-          github_user_name: StefanPenev
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: USERNAME
+          outputs: dist
+
+      - name: Add the generated SVG to the repository
+        run: |
+          mkdir -p dist
+          mv dist/github-contribution-grid-snake.svg .
+        shell: bash
 
       - name: Commit and push the changes
         uses: EndBug/add-and-commit@v9
@@ -24,5 +30,5 @@ jobs:
           author_name: "GitHub Action"
           author_email: "action@github.com"
           message: "Generated Snake animation"
-          add: "dist/github-contribution-grid-snake.svg"
+          add: "github-contribution-grid-snake.svg"
           push: true
