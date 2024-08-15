@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
+## Stats
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=StefanPenev&show_icons=true&theme=radical" alt="GitHub stats" style="height: 195px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanPenev&layout=compact&theme=radical" alt="Top Langs" style="height: 195px;"/>
