@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
+-->
 
 ## Stats
 <div style="display: flex; align-items: center;">
