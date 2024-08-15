@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
 
-![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanPenev&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanPenev&layout=compact)
 
 ![StefanPenev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StefanPenev&theme=dracula)
@@ -30,3 +28,5 @@ Here are some ideas to get you started:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
+
+![Stefan Penev's GitHub stats](https://github-readme-stats.vercel.app/api?username=StefanPenev&show_icons=true&theme=radical)
