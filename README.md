@@ -3,6 +3,12 @@
 ## Hi there 👋
 
 <!--
+### Hi there 👋
+
+I'm Stefan, a passionate software development student at 42 Wolfsburrg. I have a keen interest in building innovative and efficient software solutions. I'm currently diving deep into C, C++, and I'm excited to share my journey with you.
+-->
+
+<!--
 **StefanPenev/StefanPenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
