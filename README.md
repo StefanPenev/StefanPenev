@@ -21,9 +21,9 @@ I'm Stefan, a passionate software development student at 42 Wolfsburrg. I have a
 
 ![GitHub followers](https://img.shields.io/github/followers/StefanPenev?label=Follow&style=social)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/stefan-penev/)
 
-<!-- ![StefanPenev's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=StefanPenev&theme=dracula) -->
+<!-- ![StefanPenev's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StefanPenev&theme=dracula) -->
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
