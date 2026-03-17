@@ -1,17 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=StefanPenev.StefanPenev"/>
 
-## Hi there 👋
 
-<!--
 ### Hi there 👋
 
 I'm Stefan, a passionate software development student at 42 Wolfsburrg. I have a keen interest in building innovative and efficient software solutions. I'm currently diving deep into C, C++, and I'm excited to share my journey with you.
--->
+
 
 <!--
-**StefanPenev/StefanPenev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -23,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 ![GitHub followers](https://img.shields.io/github/followers/StefanPenev?label=Follow&style=social)
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
@@ -33,7 +28,6 @@ Here are some ideas to get you started:
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 
-<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -41,7 +35,7 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
--->
+
 
 ## Stats
 <div style="display: flex; align-items: center;">
